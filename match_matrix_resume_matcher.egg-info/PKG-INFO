@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: match-matrix-resume-matcher
+Version: 0.1.0
+Summary: Structured data extraction and deterministic AI resume matching dashboard
+Requires-Python: <3.14,>=3.12
+Requires-Dist: streamlit<2,>=1.42
+Requires-Dist: pydantic<3,>=2.8
+Requires-Dist: openai<3,>=1.55
+Requires-Dist: groq<2,>=0.11
+Requires-Dist: pypdf<7,>=5
+Requires-Dist: python-docx<2,>=1.1
+Requires-Dist: openpyxl<4,>=3.1
+Requires-Dist: python-pptx<2,>=1.0
+Requires-Dist: odfpy<2,>=1.4
+Requires-Dist: beautifulsoup4<5,>=4.12
+Requires-Dist: Pillow<14,>=10
+Requires-Dist: pytesseract<1,>=0.3.13
+Requires-Dist: reportlab<6,>=4.2
